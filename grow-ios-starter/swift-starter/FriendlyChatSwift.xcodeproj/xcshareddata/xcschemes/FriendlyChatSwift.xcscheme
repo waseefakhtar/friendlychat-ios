@@ -67,7 +67,7 @@
             isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
-            argument = " -FIRAnalyticsDebugEnabled"
+            argument = "-FIRAnalyticsDebugEnabled"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
